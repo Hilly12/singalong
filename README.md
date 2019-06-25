@@ -5,3 +5,7 @@ Singalong is an application which listens to you sing a song and aims to continu
 Webapp: https://www.doc.ic.ac.uk/~ie918/
 
 App developed for ICHACK 2019, won Runner App in best Web-App
+
+Created by,
+
+Tanuj Dhir, Ivan Ereschenko, Max Kovalovs, Aahil Mehta, Abel Shields
